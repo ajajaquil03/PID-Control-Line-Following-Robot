@@ -127,8 +127,8 @@ Use this data to observe how changes in PID constants affect performance.
 
 ## 👤 Author
 
-**Ajaj Mahmud Aquil** - **[Github](https://github.com/ajajaquil03)**
-**Ajaj Mahmud Aquil** - **[LinkedIn Profile](https://www.linkedin.com/in/ajajmahmudaquil/)**
+* **Ajaj Mahmud Aquil** - **[Github](https://github.com/ajajaquil03)**
+* **Ajaj Mahmud Aquil** - **[LinkedIn Profile](https://www.linkedin.com/in/ajajmahmudaquil/)**
 
 ## ⭐ Support
 
