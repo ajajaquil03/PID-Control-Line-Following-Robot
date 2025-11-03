@@ -47,7 +47,7 @@ Using PID, it calculates how far the robot has drifted from the line and instant
 
 Below is the full power and connection layout for the PID line-following robot:
 
-![Circuit Diagram]([./Circuit%20Diagram%20for%20LFR.png](https://github.com/ajajaquil03/PID-Control-Line-Following-Robot/tree/1d9d363fe55ece13da747748bd89835e54c66edc/Image))
+![Circuit Diagram]([](https://github.com/ajajaquil03/PID-Control-Line-Following-Robot/tree/1d9d363fe55ece13da747748bd89835e54c66edc/Image)
 
 **Power Flow Summary:**
 - **2S 7.4V LiPo Battery** → feeds both **Buck** and **Boost** modules  
@@ -61,7 +61,7 @@ Below is the full power and connection layout for the PID line-following robot:
 ## 💻 Code Details
 
 The main logic is implemented in **C++ (Arduino)**.  
-Check the [`PID_LFR.ino`](./PID_LFR.ino) file for the full source code.
+Check the [`PID_LFR.ino`]([./PID_LFR.ino](https://github.com/ajajaquil03/PID-Control-Line-Following-Robot/tree/1d9d363fe55ece13da747748bd89835e54c66edc/PID_LFR)) file for the full source code.
 
 **Key variables to tune:**
 
