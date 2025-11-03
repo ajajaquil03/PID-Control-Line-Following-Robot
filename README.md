@@ -76,14 +76,13 @@ int rbase = 200; // Base speed for right motor
 
 These values can be adjusted to balance speed and accuracy.
 
-
 ## 📐 PID Formula & Control Diagram
 
 The PID controller calculates the correction using the formula:
 
-[
+$$
 \text{Correction} = (K_p \times \text{Error}) + (K_i \times \text{Integral}) + (K_d \times \text{Derivative})
-]
+$$
 
 Where:
 
